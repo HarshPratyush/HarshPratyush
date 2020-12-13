@@ -4,7 +4,7 @@
 ### Quick Stats:
 
 <a href="https://github.com/HarshPratyush">
-<img align="center"  src="https://github-readme-stats.vercel.app/api?username=HarshPratyush&show_icons=true&theme=radical&count_private=true">
+<img align="center"  src="https://github-readme-stats.vercel.app/api?username=HarshPratyush&show_icons=true&theme=radical&count_private=true&include_all_commits=true">
 </a>
 
 <a href="https://github.com/HarshPratyush"> 
